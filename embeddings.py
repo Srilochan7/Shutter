@@ -1,0 +1,1 @@
+print("in this file i will convert images to embedding using clip")
